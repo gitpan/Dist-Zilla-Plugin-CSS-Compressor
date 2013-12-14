@@ -4,7 +4,7 @@
       "Graham Ollis <plicease@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -32,7 +32,7 @@
             "Dist::Zilla::Role::FileInjector" : "0",
             "Moose" : "0",
             "namespace::autoclean" : "0",
-            "perl" : "v5.10.0"
+            "perl" : "5.006"
          }
       },
       "test" : {
@@ -45,14 +45,15 @@
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/plicease/Dist-Zilla-Plugin-CSS-Compressor/issues"
+         "web" : "https://github.com/plicease/dist-zilla-plugin-css-compressor/issues"
       },
+      "homepage" : "http://perl.wdlabs.com/Dist-Zilla-Plugin-CSS-Compressor/",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/plicease/Dist-Zilla-Plugin-CSS-Compressor.git",
-         "web" : "https://github.com/plicease/Dist-Zilla-Plugin-CSS-Compressor"
+         "url" : "git://github.com/plicease/dist-zilla-plugin-css-compressor.git",
+         "web" : "https://github.com/plicease/dist-zilla-plugin-css-compressor"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
